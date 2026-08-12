@@ -3,9 +3,9 @@ import { PackageData, ShipSchedule, OngkirRate } from '../types';
 export const WAREHOUSE_ADDRESSES = {
   jakarta: {
     id: 'jakarta',
-    title: 'Gudang Jakarta (Tangerang)',
+    title: 'Alamat Jakarta',
     titleZh: '雅加达/唐格朗集运仓',
-    name: 'Gudang NK EXPRESS Jakarta',
+    name: '',
     adminPhone: '0821-5046-568',
     phone: '0821-5046-568',
     rawPhone: '628215046568',
