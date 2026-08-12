@@ -1,6 +1,0 @@
-{
-  "name": "NKExpress - Ternate ke Sofifi",
-  "description": "Layanan Ekspedisi & Jastip NKExpress Rute Ternate ke Sofifi. Cek ongkir, lacak paket, jadwal kapal, dan label alamat.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
